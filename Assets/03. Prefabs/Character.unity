@@ -1403,6 +1403,10 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 717731368}
+    - target: {fileID: 2621140111407509609, guid: bb47624799a874a50880a2ad4b20c6be, type: 3}
+      propertyPath: field of view
+      value: 105
+      objectReference: {fileID: 0}
     - target: {fileID: 3149739363107966666, guid: bb47624799a874a50880a2ad4b20c6be, type: 3}
       propertyPath: m_Mesh
       value: 
@@ -1415,6 +1419,38 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 1580046249}
+    - target: {fileID: 4483162152111155539, guid: bb47624799a874a50880a2ad4b20c6be, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 4483162152111155539, guid: bb47624799a874a50880a2ad4b20c6be, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.96
+      objectReference: {fileID: 0}
+    - target: {fileID: 4483162152111155539, guid: bb47624799a874a50880a2ad4b20c6be, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 4483162152111155539, guid: bb47624799a874a50880a2ad4b20c6be, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9498915
+      objectReference: {fileID: 0}
+    - target: {fileID: 4483162152111155539, guid: bb47624799a874a50880a2ad4b20c6be, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.3125798
+      objectReference: {fileID: 0}
+    - target: {fileID: 4483162152111155539, guid: bb47624799a874a50880a2ad4b20c6be, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4483162152111155539, guid: bb47624799a874a50880a2ad4b20c6be, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4483162152111155539, guid: bb47624799a874a50880a2ad4b20c6be, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 36.43
+      objectReference: {fileID: 0}
     - target: {fileID: 5132298403559291592, guid: bb47624799a874a50880a2ad4b20c6be, type: 3}
       propertyPath: m_Name
       value: Amongus Charater
