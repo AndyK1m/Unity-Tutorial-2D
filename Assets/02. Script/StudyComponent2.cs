@@ -8,10 +8,10 @@ public class StudyComponent2 : MonoBehaviour
     public Material mat; // 퍼블릭 쓰는 이유는 유니티 상에서 직접 넣는 경우이기 때문
     void Start()
     {
-        CreateCube();
+        obj = GameObject.CreatePrimitive(PrimitiveType.Cube);
     }
 
-    public void CreateCube()
+    public void CreateCube(string name = "Cube")
     {
         //obj = new GameObject();
         //obj.name = "CUBE"
