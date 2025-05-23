@@ -4,7 +4,8 @@ using UnityEngine;
 public class StudyGameobject2 : MonoBehaviour
 {
     public GameObject prefab;
-    void Start()
+    //void Start() 여기는 세팅이긴 하지만 서브적인 부분이 들어감
+    void Awake() // 이게 제일빠름 시스템의 주축이 되는 것들이 들어감
     {
         CreateAmongus();
     }
